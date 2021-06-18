@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Prolog, Java, SQL and C
 - ✍ I’m looking to finish bachelors degree
 
-  - ☏ How to reach me: ☏ -
+  - ☏ How to reach me: ☏
 
     -- ✉ Linkedin: https://www.linkedin.com/in/akif-aydin-a076a8202/
 
