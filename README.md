@@ -11,7 +11,7 @@
 
     -- ✉ Twitter: @akifnidya
 
-    -- ✉ Discord: 🌻Akif🌻#7973
+    -- ✉ Discord: Akif#7973
 
     -- ✉ E-Mail: akif.aydin@outlook.de
 
