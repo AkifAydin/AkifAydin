@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkifAydin
-- 👀 I’m interested in Programming, Anime and Sports
+- 👀 I’m interested in programming, anime and sports
 - 🌱 I’m currently learning Prolog, Java, SQL and C
-- ✍ I’m looking to finish bachelors degree
+- ✍ I’m looking to finish my bachelors degree
 
   - ☏ How to reach me: ☏
 
