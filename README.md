@@ -9,12 +9,9 @@
 
     -- ✉ StackOverflow: https://stackoverflow.com/users/16262937/akif-aydin?tab=profile
 
-    -- ✉ Twitter: @akifnidya
-
     -- ✉ Discord: Akif#7973
 
     -- ✉ E-Mail: akif.aydin@outlook.de
-
 
 <!---
 AkifAydin/AkifAydin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
