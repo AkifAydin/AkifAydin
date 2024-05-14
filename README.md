@@ -5,7 +5,7 @@
 
   - ☏ How to reach me: ☏
 
-    -- ✉ Linkedin: https://www.linkedin.com/in/akif-aydin-a076a8202/
+    -- ✉ Linkedin: [linkedin.com/akif-aydin](https://www.linkedin.com/in/akif-aydin/)
 
     -- ✉ E-Mail: akif.aydin@outlook.de
 
